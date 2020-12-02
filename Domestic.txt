@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,uupdump.ml
+DOMAIN,fastdl.mongodb.org
+DOMAIN-SUFFIX,dlmeasure.com
+PROCESS-NAME,/Applications/Setapp/Shimo.app/Contents/MacOS/openvpn
+DOMAIN,api.jr.mi.com
+USER-AGENT,MIFI*
+USER-AGENT,APP/com.xiaomi.jr*
+PROCESS-NAME,/Applications/wpsoffice.app/Contents/MacOS/wpsoffice
+DOMAIN-SUFFIX,samsungiotcloud.cn
+DOMAIN-SUFFIX,pingan.com.cn
+PROCESS-NAME,/Applications/BaiduNetdisk_mac.app/Contents/MacOS/BaiduNetdisk_mac

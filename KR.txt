@@ -1,0 +1,5 @@
+DOMAIN-SUFFIX,hscdn.com
+DOMAIN-KEYWORD,popkontv
+DOMAIN-SUFFIX,popkontv.kr
+DOMAIN-SUFFIX,popcast.co.kr
+DOMAIN-SUFFIX,popkontv.com
