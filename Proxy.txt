@@ -1,3 +1,4 @@
+DOMAIN-SUFFIX,bywave.io
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,logitech.io
 DOMAIN-SUFFIX,logitechg.com
