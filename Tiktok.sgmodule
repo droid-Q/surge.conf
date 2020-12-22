@@ -1,0 +1,9 @@
+#  by@Happy白嫖
+#!name=Unlock Tiktok
+#!desc=Unlock Tiktok
+[URL Rewrite]
+(?<=_region=)CN(?=&) KR 307
+(?<=\d\/\?version_code=)1[6-9]..(?=.?.?&) 17 307
+(?<=&mcc_mnc=)4 2 307
+[MITM]
+hostname = *.tiktokv.com
