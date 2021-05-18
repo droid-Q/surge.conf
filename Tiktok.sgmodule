@@ -1,5 +1,5 @@
 #!name=Unlock Tiktok
-#!desc=Unlock Tiktok by@Happy白嫖
+#!desc=Unlock Tiktok
 [URL Rewrite]
 
 (?<=_region=)CN(?=&) TW 307
