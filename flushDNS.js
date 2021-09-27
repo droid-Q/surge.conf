@@ -15,7 +15,7 @@ flushDNS = script-name=flushDNS,update-interval=-1
     let delay = ((await httpAPI("/v1/test/dns_delay")).delay * 1000).toFixed(0);
     let panel = {
         title: "Flush DNS",
-        content: `delay: ${delay}ms${dnsCache ? `\nserver:\n${dnsCache}` : ""}`,
+        content: `delay: ${delay}ms${dnsCache ? `\nserver: ${dnsCache}` : ""}`,
         style: "info"
     };
     if (typeof $argument != "undefined") {
