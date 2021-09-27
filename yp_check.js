@@ -49,7 +49,7 @@ function test() {
         return
       }
       let unlock = 0
-      if(response.body.indexOf('YouTube and YouTube Music ad-free') > -1){
+      if(data.indexOf('YouTube and YouTube Music ad-free') > -1){
         unlock = 1
       }
       resolve(unlock)
