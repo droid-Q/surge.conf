@@ -1,0 +1,7 @@
+#!name=Disney+ Dualsub
+#!desc=Disney+ 双语字幕支持
+[Script]
+DisneyPlus-Dualsub = type=http-response,pattern=https:\/\/.+media.dssott.com\/ps01\/disney\/.+(\.vtt|-all-.+\.m3u8.*),requires-body=true,max-size=307200,script-path=DisneyPlus-Dualsub.js
+
+[MITM]
+hostname = %APPEND% *.media.dssott.com
