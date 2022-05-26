@@ -1,0 +1,7 @@
+DOMAIN-SUFFIX,tktn.be // Added for: a1.tktn.be:8443
+DOMAIN-SUFFIX,msauth.net
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,microsoftonline.com
+AND,((DOMAIN-KEYWORD,outlook), (PROCESS-NAME,Canary Mail))
+DOMAIN-SUFFIX,students.clatsopcc.edu
+DOMAIN-SUFFIX,deepl.com

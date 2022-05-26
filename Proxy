@@ -151,3 +151,29 @@ DOMAIN-SUFFIX,charlesproxy.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,akamaized.net
 DOMAIN-SUFFIX,reevown.com
+
+DOMAIN-SUFFIX,waqi.info // Added for: https://api.waqi.info/api/feed/@741/aqi.json
+DOMAIN-SUFFIX,mypikpak.com
+DOMAIN-SUFFIX,vk.com
+
+DOMAIN-SUFFIX,fig.io
+DOMAIN-SUFFIX,samsung.com
+DOMAIN-SUFFIX,swrve.com// Added for: 4421.api.swrve.com:443
+DOMAIN-SUFFIX,sinoppis.com // Added for: sinoppis.com:443
+DOMAIN-SUFFIX,mynetgear.com
+DOMAIN-SUFFIX,chaturbate.com // Added for: chaturbate.com:443
+DOMAIN,alist.gujiaqi.dev
+DOMAIN-SUFFIX,tmdb.org
+DOMAIN-SUFFIX,themoviedb.org
+DOMAIN-SUFFIX,jmsooo.com
+DOMAIN,porn.embyclub.com
+DOMAIN-SUFFIX,jsdelivr.net
+DOMAIN,www.i-dont-care-about-cookies.eu
+DOMAIN,anti-ad.net
+DOMAIN,dns.adguard.com
+DOMAIN,dns.adguard.com
+DOMAIN,512dl.oss-accelerate.aliyuncs.com
+PROCESS-NAME,*obfs4proxy
+DOMAIN-SUFFIX,tokenpocket.pro // Added for: tp-statics.tokenpocket.pro:443
+DOMAIN-SUFFIX,mytokenpocket.vip // Added for: web3.mytokenpocket.vip:443
+DOMAIN-SUFFIX,l10n-pro.hecoview.com // Added for: l10n-pro.hecoview.com:443
