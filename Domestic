@@ -20,4 +20,7 @@ DOMAIN-SUFFIX,alibabadns.com
 DOMAIN-SUFFIX,alicloudccp.com
 PROCESS-NAME,/Applications/TencentMeeting.app/Contents/MacOS/TencentMeeting
 PROCESS-NAME,/Applications/爱奇艺.app/Contents/MacOS/qiyimac
-OR,((DOMAIN-SUFFIX,gvt3.com), (DOMAIN-SUFFIX,gvt2.com), (DOMAIN-SUFFIX,gvt1.com), (DOMAIN-SUFFIX,gvt0.com))
+DOMAIN-SUFFIX,gvt3.com
+DOMAIN-SUFFIX,gvt2.com
+DOMAIN-SUFFIX,gvt1.com
+DOMAIN-SUFFIX,gvt0.com
