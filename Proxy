@@ -177,3 +177,4 @@ PROCESS-NAME,*obfs4proxy
 DOMAIN-SUFFIX,tokenpocket.pro // Added for: tp-statics.tokenpocket.pro:443
 DOMAIN-SUFFIX,mytokenpocket.vip // Added for: web3.mytokenpocket.vip:443
 DOMAIN-SUFFIX,l10n-pro.hecoview.com // Added for: l10n-pro.hecoview.com:443
+DOMAIN-SUFFIX,wakatime.com
