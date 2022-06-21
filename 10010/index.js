@@ -33,6 +33,7 @@ function GetCookie() {
   if ($request.url.indexOf('smartwisdomCommon') > -1) {
     const cookie = $request.headers.cookie;
     $.log($request.headers);
+    $.log('cookies:' + cookie);
     // if (cookie && cookie.indexOf('JSESSIONID') > -1) {
     //   $.write(cookie, 'cookie');
     //   $.notify('中国联通','cookie 写入成功');
