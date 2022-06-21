@@ -39,6 +39,7 @@ function GetCookie() {
     // }
     if (cookie) {
       $.write(cookie, 'cookie');
+      $.log('cookie write done');
       $.notify('中国联通','cookie 写入成功');
     }
   }
