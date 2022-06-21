@@ -31,7 +31,7 @@ if ($request) GetCookie();
 
 function GetCookie() {
   if ($request.url.indexOf('smartwisdomCommon') > -1) {
-    const cookie = $request.headers.Cookie;
+    const cookie = $request.headers.cookie;
     $.log($request.headers);
     // if (cookie && cookie.indexOf('JSESSIONID') > -1) {
     //   $.write(cookie, 'cookie');
