@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,waqi.info // Added for: https://api.waqi.info/api/feed/@741/aqi.json
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,vk.com
-DOMAIN-SUFFIX,elemecdn.com
+
 DOMAIN-SUFFIX,fig.io
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,swrve.com// Added for: 4421.api.swrve.com:443
