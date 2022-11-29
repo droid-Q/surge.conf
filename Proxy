@@ -2,6 +2,7 @@ DOMAIN-SUFFIX,waqi.info // Added for: https://api.waqi.info/api/feed/@741/aqi.js
 DOMAIN-SUFFIX,mypikpak.com
 DOMAIN-SUFFIX,vk.com
 
+DOMAIN, dl.google.com
 DOMAIN-SUFFIX,fig.io
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,swrve.com// Added for: 4421.api.swrve.com:443
@@ -24,3 +25,26 @@ DOMAIN-SUFFIX,tokenpocket.pro // Added for: tp-statics.tokenpocket.pro:443
 DOMAIN-SUFFIX,mytokenpocket.vip // Added for: web3.mytokenpocket.vip:443
 DOMAIN-SUFFIX,l10n-pro.hecoview.com // Added for: l10n-pro.hecoview.com:443
 DOMAIN-SUFFIX,wakatime.com
+
+DOMAIN-SUFFIX, google.com, Proxy
+DOMAIN, updates.cdn-apple.com, Proxy
+DOMAIN-SUFFIX, ruby-lang.org, Proxy
+DOMAIN, vsls-prod-ins-asse-private-relay.servicebus.windows.net, Proxy
+IP-CIDR, 43.154.167.1/32, Proxy, no-resolve
+DOMAIN-SUFFIX, devmate.com, Proxy
+DOMAIN-SUFFIX, ubnt.com, Proxy
+DOMAIN-SUFFIX, charontv.com, Proxy
+DOMAIN-SUFFIX, akamaized.net, Proxy
+DOMAIN-SUFFIX, myqcloud.com, Proxy
+DOMAIN-SUFFIX, epicgames.com, Proxy
+DOMAIN-SUFFIX,nextdns.io, Proxy
+PROCESS-NAME,/Applications/Tailscale.app/Contents/MacOS/Tailscale, Proxy
+DOMAIN-SUFFIX, githubusercontent.com, Proxy
+DOMAIN-SUFFIX,tailscale.com, Proxy
+DOMAIN-SUFFIX,tailscale.io, Proxy
+DOMAIN, uupdump.sf.tlu.dl.delivery.mp.microsoft.com, Proxy
+PROTOCOL,DOH,Proxy
+DOMAIN-SUFFIX,jsqcwd.com,Proxy // Added for: jsqcwd.com:443
+DOMAIN-KEYWORD,onion,Tor Proxy
+DOMAIN-SUFFIX,gujiaqi.dev,Proxy
+DOMAIN-SUFFIX,macupdater-backend.com,Proxy
