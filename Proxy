@@ -48,5 +48,5 @@ DOMAIN-SUFFIX,jsqcwd.com,Proxy // Added for: jsqcwd.com:443
 DOMAIN-KEYWORD,onion,Tor Proxy
 DOMAIN-SUFFIX,gujiaqi.dev,Proxy
 DOMAIN-SUFFIX,macupdater-backend.com,Proxy
-DOMAIN-SUFFIX,akamai.com,Proxy
-IP-CIDR, 182.43.124.6/32，Proxy
+DOMAIN-SUFFIX,akamai.com, Proxy
+IP-CIDR, 182.43.124.6/32, Proxy
