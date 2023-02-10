@@ -26,26 +26,37 @@ DOMAIN-SUFFIX,mytokenpocket.vip // Added for: web3.mytokenpocket.vip:443
 DOMAIN-SUFFIX,l10n-pro.hecoview.com // Added for: l10n-pro.hecoview.com:443
 DOMAIN-SUFFIX,wakatime.com
 
-DOMAIN-SUFFIX, google.com, Proxy
-DOMAIN, updates.cdn-apple.com, Proxy
-DOMAIN-SUFFIX, ruby-lang.org, Proxy
-DOMAIN, vsls-prod-ins-asse-private-relay.servicebus.windows.net, Proxy
-IP-CIDR, 43.154.167.1/32, Proxy, no-resolve
-DOMAIN-SUFFIX, devmate.com, Proxy
-DOMAIN-SUFFIX, ubnt.com, Proxy
-DOMAIN-SUFFIX, charontv.com, Proxy
-DOMAIN-SUFFIX, akamaized.net, Proxy
-DOMAIN-SUFFIX, myqcloud.com, Proxy
-DOMAIN-SUFFIX, epicgames.com, Proxy
-DOMAIN-SUFFIX,nextdns.io, Proxy
-PROCESS-NAME,/Applications/Tailscale.app/Contents/MacOS/Tailscale, Proxy
-DOMAIN-SUFFIX, githubusercontent.com, Proxy
-DOMAIN-SUFFIX,tailscale.com, Proxy
-DOMAIN-SUFFIX,tailscale.io, Proxy
-DOMAIN, uupdump.sf.tlu.dl.delivery.mp.microsoft.com, Proxy
-PROTOCOL,DOH,Proxy
-DOMAIN-SUFFIX,jsqcwd.com,Proxy // Added for: jsqcwd.com:443
-DOMAIN-KEYWORD,onion,Tor Proxy
-DOMAIN-SUFFIX,gujiaqi.dev,Proxy
-DOMAIN-SUFFIX,macupdater-backend.com,Proxy
-DOMAIN-SUFFIX,akamai.com, Proxy
+DOMAIN-SUFFIX, google.com
+DOMAIN, updates.cdn-apple.com
+DOMAIN-SUFFIX, ruby-lang.org
+DOMAIN, vsls-prod-ins-asse-private-relay.servicebus.windows.net
+IP-CIDR, 43.154.167.1/32, no-resolve
+DOMAIN-SUFFIX, devmate.com
+DOMAIN-SUFFIX, ubnt.com
+DOMAIN-SUFFIX, charontv.com
+DOMAIN-SUFFIX, akamaized.net
+DOMAIN-SUFFIX, myqcloud.com
+DOMAIN-SUFFIX, epicgames.com
+DOMAIN-SUFFIX,nextdns.io
+PROCESS-NAME,/Applications/Tailscale.app/Contents/MacOS/Tailscale
+DOMAIN-SUFFIX, githubusercontent.com
+DOMAIN-SUFFIX,tailscale.com
+DOMAIN-SUFFIX,tailscale.io
+DOMAIN, uupdump.sf.tlu.dl.delivery.mp.microsoft.com
+PROTOCOL,DOH
+DOMAIN-SUFFIX,jsqcwd.com // Added for: jsqcwd.com:443
+DOMAIN-KEYWORD,onion
+DOMAIN-SUFFIX,gujiaqi.dev
+DOMAIN-SUFFIX,macupdater-backend.com
+DOMAIN-SUFFIX,akamai.com
+
+DOMAIN-SUFFIX, jetbrains.com
+DOMAIN-SUFFIX, gvt1.com
+DOMAIN-SUFFIX, brew.sh
+DOMAIN-SUFFIX, mypikpak.com
+
+DOMAIN-SUFFIX, quora.com
+DOMAIN-SUFFIX, sdkman.io
+PROCESS-NAME, aria2c
+DOMAIN-SUFFIX,mixpanel.com
+DOMAIN, pzslkrypton.queue.core.windows.net

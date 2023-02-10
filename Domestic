@@ -28,14 +28,17 @@ DOMAIN-SUFFIX,gvt3.com
 DOMAIN-SUFFIX,gvt2.com
 DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gvt0.com
-DOMAIN-SUFFIX,ax1x.com, DIRECT
-DOMAIN, www.qchannel01.cn, DIRECT
-PROCESS-NAME, /Applications/aDrive.app/Contents/MacOS/aDrive, DIRECT
-DOMAIN-SUFFIX,myqcloud.com, DIRECT
-DOMAIN,imap.exmail.qq.com, DIRECT
-DOMAIN-SUFFIX,bilibili.com, DIRECT
-DOMAIN, pdds.ucweb.com, DIRECT
-DOMAIN-SUFFIX, quark.cn, DIRECT
-DOMAIN-SUFFIX, processon.com, DIRECT
-DOMAIN, wannianrili.51240.com, DIRECT
-DOMAIN, pdds.ucweb.com, DIRECT
+DOMAIN-SUFFIX,ax1x.com
+DOMAIN, www.qchannel01.cn
+PROCESS-NAME, /Applications/aDrive.app/Contents/MacOS/aDrive
+DOMAIN-SUFFIX,myqcloud.com
+DOMAIN,imap.exmail.qq.com
+DOMAIN-SUFFIX,bilibili.com
+DOMAIN, pdds.ucweb.com
+DOMAIN-SUFFIX, quark.cn
+DOMAIN-SUFFIX, processon.com
+DOMAIN, wannianrili.51240.com
+DOMAIN, pdds.ucweb.com
+DOMAIN-SUFFIX, watermro.com
+DOMAIN-SUFFIX,10010.com
+DOMAIN, mvn.gt.getui.com
