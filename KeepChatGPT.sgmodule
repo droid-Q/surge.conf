@@ -1,0 +1,9 @@
+#!name=KeepChatGPT
+#!desc=让我们在使用ChatGPT过程中更高效、更顺畅(https://github.com/xcanwin/KeepChatGPT)
+
+[Script]
+# Display jd historical price
+http-response ^https?://chat\.openai\.com\.com.* requires-body=1,script-path=https://service.2ti.st/QuanX/Script/jd_tb_price/main.js
+
+[MITM]
+hostname = %APPEND% chat.openai.com
