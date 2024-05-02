@@ -33,7 +33,6 @@ DOMAIN, www.qchannel01.cn
 PROCESS-NAME, /Applications/aDrive.app/Contents/MacOS/aDrive
 DOMAIN-SUFFIX,myqcloud.com
 DOMAIN,imap.exmail.qq.com
-DOMAIN-SUFFIX,bilibili.com
 DOMAIN, pdds.ucweb.com
 DOMAIN-SUFFIX, quark.cn
 DOMAIN-SUFFIX, processon.com
